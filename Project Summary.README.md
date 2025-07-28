@@ -1,10 +1,14 @@
 # Loan Approval Workflow Automation – Business Analyst Project
 
 ## 📌 Project Overview
-This project simulates a real-world Business Analyst role for a mid-sized bank looking to automate its loan approval process. Currently, the process is manual, paper-based, and time-consuming, leading to delays and poor customer experience. The objective of this project is to design a digital loan approval workflow that reduces approval time from 10–15 days to 48 hours.
+  RK Cooperative Bank Ltd. incorporates its loan applications manually. This requires customers submit there loan application documents in person. The application under this procerss passes through various approvals from head officers and manual credit checks leading to elongated response to the customers about their loan applications causing customer dissatisfaction. The Goal is to minimise the loan approval timeline to 48 hours from 10 to 15 days.
 
----
-
+## Pain Points
+- Long Approval Time Of 10-15 Days.
+- Manual Verification of Documents which is prone to Higher errors.
+- Higher operational cost due to manual handling of the application documents.
+- Increased Customer Churn rate.
+  
 ## 🎯 Project Objectives
 - **Specific:** Automate the loan approval process for personal loans.
 - **Measurable:** Reduce approval time from 10–15 days to 48 hours.
